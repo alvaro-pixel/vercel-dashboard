@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\seed\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\seed\\route.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\seed\\next.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\seed\\next.config.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\parser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\parser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\dashboard\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\dashboard\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vercel.json",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\vercel.json",
+              "RelativeDocumentMoniker": "vercel.json",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\vercel.json",
+              "RelativeToolTip": "vercel.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T09:40:33.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T09:40:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "next.config.mjs",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\seed\\next.config.mjs",
+              "RelativeDocumentMoniker": "app\\seed\\next.config.mjs",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\seed\\next.config.mjs",
+              "RelativeToolTip": "app\\seed\\next.config.mjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T19:03:57.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\index.js",
+              "RelativeDocumentMoniker": "node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\index.js",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\index.js",
+              "RelativeToolTip": "node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T18:56:16.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "parser.js",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\parser.js",
+              "RelativeDocumentMoniker": "node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\parser.js",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\parser.js",
+              "RelativeToolTip": "node_modules\\.pnpm\\pg-protocol@1.6.1\\node_modules\\pg-protocol\\dist\\parser.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T18:54:38.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\page.tsx",
+              "RelativeDocumentMoniker": "app\\page.tsx",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\page.tsx",
+              "RelativeToolTip": "app\\page.tsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T18:27:49.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "app\\layout.tsx",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\layout.tsx",
+              "RelativeToolTip": "app\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T18:27:43.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\dashboard\\page.tsx",
+              "RelativeDocumentMoniker": "app\\dashboard\\page.tsx",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\dashboard\\page.tsx",
+              "RelativeToolTip": "app\\dashboard\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T18:27:36.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\dashboard\\layout.tsx",
+              "RelativeDocumentMoniker": "app\\dashboard\\layout.tsx",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\dashboard\\layout.tsx",
+              "RelativeToolTip": "app\\dashboard\\layout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T18:27:29.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "route.tsx",
+              "DocumentMoniker": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\seed\\route.tsx",
+              "RelativeDocumentMoniker": "app\\seed\\route.tsx",
+              "ToolTip": "C:\\Users\\User1\\Documents\\react\\install\\vercel-dashboard\\app\\seed\\route.tsx",
+              "RelativeToolTip": "app\\seed\\route.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-03T18:25:22.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
